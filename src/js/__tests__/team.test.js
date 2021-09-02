@@ -28,13 +28,5 @@ test('straigth case', () => {
     level: 1,
     attack: 40,
     defence: 10,
-  },
-  {
-    name: 'Маг',
-    type: 'Mage',
-    health: 50,
-    level: 1,
-    attack: 40,
-    defence: 10,
   }]);
 });
